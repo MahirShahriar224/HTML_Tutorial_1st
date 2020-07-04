@@ -1,0 +1,19 @@
+body{
+background-color: grey;
+width: 1024px;
+height: 768px ;
+
+}
+
+.logo{
+    background-color: blueviolet;
+    height: 100px;
+    width: 100px;
+    float: left;
+}
+
+.banner{
+	background-color: crimson;
+    height: 100px;
+    width: 1010px;
+}
